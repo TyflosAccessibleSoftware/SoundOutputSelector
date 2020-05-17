@@ -2,14 +2,23 @@
 
 ## Description
 
+This repository contains various AppleScript to manage the sound output device.
+
+### SoundOutputSelector
+
 This script shows a sound output selector to change between diferent output devices fastly.
 
-The default option is the system output. This is a good option when the current sound output is not working and this script allows to change the sound output for blind users.
+The default option is the system output. This is a good option when the current sound output is not working so this script allows to change the sound output for blind users.
+
+### ResetSoundOutput
+
+This script choose automatically the default sound output device.
+This function is usefull when the current sound output device is not working.
 
 ## Localization
 
-This script is available for two languages: Spanish and English.
-You can customize the script for other languages. It is very easy.
+These scripts are available for two languages: Spanish and English.
+You can customize eatch script for other languages. It is very easy.
 You have to modify these variables:
 
 * *MenuViewName* : This is the text string for the *View* in the menu bar.
