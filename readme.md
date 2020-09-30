@@ -17,7 +17,7 @@ This function is usefull when the current sound output device is not working.
 
 ## Localization
 
-These scripts are available for two languages: Spanish and English.
+These scripts are available for three languages: Spanish, Norwegian and English.
 You can customize eatch script for other languages. It is very easy.
 You have to modify these variables:
 
@@ -25,6 +25,15 @@ You have to modify these variables:
 * *menuSoundName* : This is the text string for the item menu in System preferences to activate the Sound panel.
 * *windowSoundName* : This is the text string with the name of the window for the sound panel in System preferences.
 * *titleForSelector* : This is the text string for the title of the dialog to choose the sound output.
+
+### Credits
+
+Thanks to these persons to help me translating and testing this project:
+
+* Cliff Isaksen
+* Jose María Ortiz Silva
+* Ramón Corominas
+
 
 
 ## Copyright and license
